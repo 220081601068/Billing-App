@@ -27,7 +27,7 @@ Android GST E-Billing Project is a GST billing solution. The system enables you 
 
 1. **Clone the Repository**
     ```sh
-    git clone https://github.com/220081601068/Billing-App.git
+    git clone https://github.com/umarfarookrizwan/Billing-App.git
     cd Billing-App
     ```
 
